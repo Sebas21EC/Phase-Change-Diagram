@@ -1,0 +1,32 @@
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de logs y bases de datos temporales
+*.log
+*.sqlite3
+
+# Configuración de usuario (IDE)
+.vscode/
+.idea/
+*.swp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configuraciones locales de ngrok u otros
+*.ngrok*
+*.env.local
+
+# Jupyter y notebooks cacheados (si aplicara)
+.ipynb_checkpoints/
+
+# Render env example (opcional)
+.env.example
