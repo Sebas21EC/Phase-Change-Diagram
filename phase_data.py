@@ -1,5 +1,4 @@
 phase_diagram_data = {
-    0.05: {"specific_volume_liquid": 0.001012, "specific_volume_vapor": 3.263},
     0.10: {"specific_volume_liquid": 0.001043, "specific_volume_vapor": 1.672},
     0.25: {"specific_volume_liquid": 0.001071, "specific_volume_vapor": 0.6737},
     0.50: {"specific_volume_liquid": 0.001091, "specific_volume_vapor": 0.3749},
